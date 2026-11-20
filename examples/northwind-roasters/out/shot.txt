@@ -1,0 +1,5 @@
+index.html 1440px  scrollWidth 1440 OK  errors 0  blank images 0  PASS
+index.html 390px  scrollWidth 390 OK  errors 0  blank images 0  PASS
+index.html 1440px: 3 slices, read every one
+index.html 390px: 2 slices, read every one
+shot: all green

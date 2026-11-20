@@ -1,0 +1,12 @@
+heading skeleton (read it alone, does it sell?):
+  H1 Fresh-roasted coffee at your door
+    H2 How a bag gets to you
+    H2 What is in every box
+    H2 Who it is for
+    H2 What subscribers say
+    H2 One plan, two speeds
+    H2 Who roasts it
+    H2 Questions
+    H2 Your first bag roasts on the next roast day
+words: 439  CTAs: 4 (1 distinct)
+copy_lint: all green

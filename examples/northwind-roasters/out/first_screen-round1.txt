@@ -1,0 +1,11 @@
+first screen (browser, 390x664): site/index.html
+  1 promise     PASS  'fresh-roasted coffee at your door' is on the first screen
+  2 headline    PASS  'Fresh-roasted coffee at your door every two or four weeks' fully on the first screen
+  3 cta         PASS  ['Start my first bag']
+  4 proof       JUDGE no rating, review count or logo text found on the first screen
+  5 covered     PASS  no overlay over 25%
+  6 hero-bytes  PASS  img/bag-placeholder.jpg 21 KB
+  7 viewport    PASS  present
+trust faults: 0
+fix list:
+  1. [Fix first] proof: no rating, review count or logo text found on the first screen. Why: a claim with no proof nearby reads as an ad.

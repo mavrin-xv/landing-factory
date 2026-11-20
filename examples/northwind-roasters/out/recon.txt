@@ -1,0 +1,12 @@
+title: Contoso Beans: tea, delivered
+h1: Loose-leaf tea that shows up before you run out
+sections: 7
+   1. section h637   H1: Loose-leaf tea that shows up before you run out          img 0 video 0 svg 0
+   2. section h202   H2: Served at                                                img 0 video 0 svg 0
+   3. section h248   H2: How it works                                             img 0 video 0 svg 0
+   4. section h220   H2: What is in every box                                     img 0 video 0 svg 0
+   5. section h286   H2: What drinkers say                                        img 0 video 0 svg 0
+   6. section h285   H2: One plan                                                 img 0 video 0 svg 0
+   7. section h246   H2: Questions                                                img 0 video 0 svg 0
+first-screen CTAs (390x664): ['Start for $12']
+wrote out\contoso-recon.json

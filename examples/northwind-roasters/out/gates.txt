@@ -1,0 +1,1 @@
+gates: all green (1 anchors, 2 local files, 2 counts, 4 zero rules)

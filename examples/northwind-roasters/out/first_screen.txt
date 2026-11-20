@@ -1,0 +1,11 @@
+first screen (browser, 390x664): site/index.html
+  1 promise     PASS  'fresh-roasted coffee at your door' is on the first screen
+  2 headline    PASS  'Fresh-roasted coffee at your door' fully on the first screen
+  3 cta         PASS  ['Start my first bag']
+  4 proof       JUDGE candidates: ['1,240 reviews']
+  5 covered     PASS  no overlay over 25%
+  6 hero-bytes  PASS  img/bag-placeholder.jpg 21 KB
+  7 viewport    PASS  present
+trust faults: 0
+fix list:
+  nothing to fix on the first screen; judge the proof candidates by eye

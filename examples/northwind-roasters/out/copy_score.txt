@@ -1,0 +1,10 @@
+copy gate for site/index.html, pass 2
+  clarity        9  ok   
+  specificity    9  ok   
+  voice          8  ok   
+  desire         7  ok   pass 1 was 6: the hero sold logistics only; pass 2 put the roast date on the bag into the loop and the box
+  proof          7  ok   rating and review count are real per facts.md; quotes are marked as examples, so proof stays at 7
+  urgency        7  ok   the only reason to act now is the next roast day; no countdown, by design
+  flow           9  ok   
+  total 56 of 70 (bar 56)
+copy gate: PASS

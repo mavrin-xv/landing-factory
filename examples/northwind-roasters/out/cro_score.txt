@@ -1,0 +1,23 @@
+CRO audit: site/index.html (page job: cold subscription, paid social traffic)
+  dimension      score  weight  points  note
+  headline           8      18    14.4  
+  cta                8      15    12.0  
+  above_fold         8      12     9.6  
+  message_match      9      12    10.8  
+  proof              7      10     7.0  rating sits under the hero; no quote is next to the price
+  persuasion         7       8     5.6  one honest price anchor, no social proof near the offer
+  copy               8       8     6.4  
+  objections         8       5     4.0  
+  trust              6       5     3.0  no real product photo yet (placeholder), no named roasters in About
+  form               7       4     2.8  checkout is off-page and not audited here
+  mobile             9       2     1.8  
+  speed              9       1     0.9  
+  first-screen gate: 53.8 of 67 (80%, needs 60%)
+  total 78.3 of 100, grade B, verdict B
+fix list (fix order stage, then points lost):
+  1. [2 headline] headline: 3.6 points lost.
+  2. [2 headline] message_match: 1.2 points lost.
+  3. [3 section choice] persuasion: 2.4 points lost. one honest price anchor, no social proof near the offer
+  4. [3 section choice] above_fold: 2.4 points lost.
+  5. [3 section choice] objections: 1.0 points lost.
+  6. [4 proof placement] proof: 3.0 points lost. rating sits under the hero; no quote is next to the price

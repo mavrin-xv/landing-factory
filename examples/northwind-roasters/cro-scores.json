@@ -1,0 +1,12 @@
+{
+  "page": "site/index.html",
+  "page_job": "cold subscription, paid social traffic",
+  "scores": {"headline": 8, "above_fold": 8, "cta": 8, "message_match": 9, "proof": 7, "persuasion": 7,
+             "copy": 8, "objections": 8, "trust": 6, "form": 7, "mobile": 9, "speed": 9},
+  "notes": {
+    "trust": "no real product photo yet (placeholder), no named roasters in About",
+    "proof": "rating sits under the hero; no quote is next to the price",
+    "form": "checkout is off-page and not audited here",
+    "persuasion": "one honest price anchor, no social proof near the offer"
+  }
+}

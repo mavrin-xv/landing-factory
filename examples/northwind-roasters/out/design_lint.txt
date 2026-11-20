@@ -1,0 +1,2 @@
+design_lint: 11 sections, 1 stylesheet(s), 1 accent color(s), 0 eyebrow(s), 0 video(s)
+design_lint: all green

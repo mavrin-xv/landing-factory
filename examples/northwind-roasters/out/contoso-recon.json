@@ -1,0 +1,213 @@
+{
+ "tokens": {
+  "fonts": [
+   [
+    "Georgia | 16px | 400 | lh 24px",
+    13
+   ],
+   [
+    "Georgia | 24px | 700 | lh 36px",
+    6
+   ],
+   [
+    "Arial | 16px | 400 | lh 24px",
+    5
+   ],
+   [
+    "Arial | 15px | 400 | lh 22.5px",
+    3
+   ],
+   [
+    "Georgia | 16px | 700 | lh 24px",
+    1
+   ],
+   [
+    "Georgia | 58px | 700 | lh 63.8px",
+    1
+   ],
+   [
+    "Georgia | 18px | 400 | lh 27px",
+    1
+   ],
+   [
+    "Georgia | 44px | 700 | lh 66px",
+    1
+   ],
+   [
+    "Arial | 14px | 400 | lh 21px",
+    1
+   ]
+  ],
+  "colors": [
+   [
+    "rgb(29, 35, 33)",
+    22
+   ],
+   [
+    "rgb(93, 102, 97)",
+    7
+   ],
+   [
+    "rgb(255, 255, 255)",
+    3
+   ]
+  ],
+  "backgrounds": [
+   [
+    "rgb(47, 107, 79)",
+    3
+   ]
+  ],
+  "radii": [
+   [
+    "10px",
+    5
+   ],
+   [
+    "999px",
+    3
+   ],
+   [
+    "18px",
+    1
+   ]
+  ],
+  "body_background": "rgb(246, 243, 238)"
+ },
+ "sections": [
+  {
+   "top": 75,
+   "height": 637,
+   "tag": "section",
+   "id": null,
+   "headings": [
+    "H1: Loose-leaf tea that shows up before you run out"
+   ],
+   "text": [
+    "Pick a tea, pick a pace. Your first tin ships today for $12.",
+    "Start for $12"
+   ],
+   "media": {
+    "img": 0,
+    "video": 0,
+    "svg": 0
+   }
+  },
+  {
+   "top": 712,
+   "height": 202,
+   "tag": "section",
+   "id": null,
+   "headings": [
+    "H2: Served at"
+   ],
+   "text": [
+    "Harbor Cafe",
+    "Linden Books",
+    "Ridge Hotel",
+    "Fig Bakery",
+    "Mill Studio"
+   ],
+   "media": {
+    "img": 0,
+    "video": 0,
+    "svg": 0
+   }
+  },
+  {
+   "top": 914,
+   "height": 248,
+   "tag": "section",
+   "id": null,
+   "headings": [
+    "H2: How it works"
+   ],
+   "text": [
+    "Take the two-minute taste quiz.",
+    "We blend and pack your tin the same week.",
+    "Rate each tin; the next one adapts."
+   ],
+   "media": {
+    "img": 0,
+    "video": 0,
+    "svg": 0
+   }
+  },
+  {
+   "top": 1162,
+   "height": 220,
+   "tag": "section",
+   "id": null,
+   "headings": [
+    "H2: What is in every box"
+   ],
+   "text": [
+    "One 100 g tin",
+    "A brew card with times and temperatures",
+    "A sample of next month's tea"
+   ],
+   "media": {
+    "img": 0,
+    "video": 0,
+    "svg": 0
+   }
+  },
+  {
+   "top": 1382,
+   "height": 286,
+   "tag": "section",
+   "id": null,
+   "headings": [
+    "H2: What drinkers say"
+   ],
+   "text": [],
+   "media": {
+    "img": 0,
+    "video": 0,
+    "svg": 0
+   }
+  },
+  {
+   "top": 1668,
+   "height": 285,
+   "tag": "section",
+   "id": "plans",
+   "headings": [
+    "H2: One plan"
+   ],
+   "text": [
+    "$12 a tin",
+    "Ships every 4 weeks. Skip or cancel from your account.",
+    "Start for $12"
+   ],
+   "media": {
+    "img": 0,
+    "video": 0,
+    "svg": 0
+   }
+  },
+  {
+   "top": 1952,
+   "height": 246,
+   "tag": "section",
+   "id": null,
+   "headings": [
+    "H2: Questions"
+   ],
+   "text": [],
+   "media": {
+    "img": 0,
+    "video": 0,
+    "svg": 0
+   }
+  }
+ ],
+ "title": "Contoso Beans: tea, delivered",
+ "description": "A reference page for the landing-factory example. Contoso Beans is invented.",
+ "h1": "Loose-leaf tea that shows up before you run out",
+ "first_screen_text": "Contoso Beans | Start for $12 | Loose-leaf tea that shows up before you run out | Pick a tea, pick a pace. Your first tin ships today for $12. | Start for $12",
+ "first_screen_ctas": [
+  "Start for $12"
+ ],
+ "source": "reference"
+}

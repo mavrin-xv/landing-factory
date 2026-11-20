@@ -1,0 +1,11 @@
+first screen (static, first 80 words): site/index.html
+  1 promise     PASS  'fresh-roasted coffee at your door' is on the first screen
+  2 headline    PASS  'Fresh-roasted coffee at your door' fully on the first screen
+  3 cta         PASS  ['Start my first bag', 'Start my first bag']
+  4 proof       JUDGE candidates: ['1,240 reviews', 'Rated 4']
+  5 covered     SKIP  needs the browser
+  6 hero-bytes  SKIP  size of img/bag-placeholder.jpg not measured
+  7 viewport    PASS  present
+trust faults: 0
+fix list:
+  nothing to fix on the first screen; judge the proof candidates by eye

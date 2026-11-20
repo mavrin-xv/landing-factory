@@ -1,0 +1,10 @@
+{
+  "page": "site/index.html",
+  "pass": 2,
+  "scores": {"clarity": 9, "specificity": 9, "voice": 8, "desire": 7, "proof": 7, "urgency": 7, "flow": 9},
+  "notes": {
+    "desire": "pass 1 was 6: the hero sold logistics only; pass 2 put the roast date on the bag into the loop and the box",
+    "proof": "rating and review count are real per facts.md; quotes are marked as examples, so proof stays at 7",
+    "urgency": "the only reason to act now is the next roast day; no countdown, by design"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "landing-factory",
+  "description": "From a reference URL and a brief to a converting landing page, in rounds: reverse the reference into screenshots, tokens and a block map, write the page architecture, apply a design canon and a copy canon, build mobile first, then gate every round with copy and design lints, wiring checks, screenshots at 1440 and 390, a first-screen check and a weighted CRO audit.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Artem Mavrin",
+    "url": "https://github.com/mavrin-xv"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mavrin-xv/landing-factory",
+  "repository": "https://github.com/mavrin-xv/landing-factory"
+}

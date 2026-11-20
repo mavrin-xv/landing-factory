@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- landing-factory page skeleton. Every [BRACKET] is a slot to fill from the brief, architecture.md and
+     facts.md. Delete a section you cut and note why in architecture.md. Run the gates after filling:
+     first_screen.py flags any slot text left behind as a trust fault. -->
+<title>[Brand]: [the buyer's result in a few words]</title>
+<meta name="description" content="[Outcome, cost and the main risk reducer, under 155 characters]">
+<link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+<header class="top">
+  <span class="brand">[Brand]</span>
+  <a class="btn btn-sm" href="#offer">[CTA label]</a>
+</header>
+<main>
+<!-- 1. Hero: what is it, what does it cost, what do I do. H1, sub, CTA, visual. One proof line max. -->
+<section class="hero">
+  <h1>[The buyer's result, 12 words or fewer]</h1>
+  <p class="sub">[Outcome and cost, 20 words or fewer.] [Optional: one sourced proof line.]</p>
+  <a class="btn" href="#offer">[CTA label]</a>
+  <img class="hero-img" src="img/hero.jpg" width="1200" height="800" alt="[What the product photo shows]">
+</section>
+
+<!-- 2. Logo or proof row, right under a compact hero. Only names the owner may show. -->
+<section class="logos" aria-label="[Where it is used]">
+  <ul class="logo-row">
+    <li>[Name 1]</li><li>[Name 2]</li><li>[Name 3]</li><li>[Name 4]</li><li>[Name 5]</li><li>[Name 6]</li>
+  </ul>
+</section>
+
+<!-- 3. Mechanism: how does it work. A numbered loop, 3 to 5 steps. -->
+<section class="how" id="how">
+  <h2>[How it works, in the buyer's words]</h2>
+  <ol class="loop">
+    <li><b>[Step 1]</b><span>[One line]</span></li>
+    <li><b>[Step 2]</b><span>[One line]</span></li>
+    <li><b>[Step 3]</b><span>[One line]</span></li>
+    <li><b>[Step 4]</b><span>[One line]</span></li>
+  </ol>
+</section>
+
+<!-- 4. What exactly do I get. Bento of 4 tiles: one big, one dark spanning two columns at desktop. -->
+<section class="box">
+  <h2>[What is in it]</h2>
+  <div class="tiles">
+    <div class="tile tile-big"><b>[The main thing]</b><span>[Detail]</span></div>
+    <div class="tile"><b>[Item]</b><span>[Detail]</span></div>
+    <div class="tile"><b>[Item]</b><span>[Detail]</span></div>
+    <div class="tile tile-dark"><b>[The detail that proves care]</b><span>[Detail]</span></div>
+  </div>
+</section>
+
+<!-- 5. Segments: is it for me. Three unequal tiles. -->
+<section class="who">
+  <h2>[Who it is for]</h2>
+  <div class="tiles tiles-3">
+    <div class="tile"><b>[Segment 1]</b><span>[What they pick and why]</span></div>
+    <div class="tile"><b>[Segment 2]</b><span>[What they pick and why]</span></div>
+    <div class="tile"><b>[Segment 3]</b><span>[What they pick and why]</span></div>
+  </div>
+</section>
+
+<!-- 6. Proof wall. Real quotes with a name and a place, or cut the section. -->
+<section class="wall">
+  <h2>[What buyers say]</h2>
+  <div class="quotes">
+    <figure><blockquote>[Real quote]</blockquote><figcaption>[Name, place]</figcaption></figure>
+    <figure><blockquote>[Real quote]</blockquote><figcaption>[Name, place]</figcaption></figure>
+    <figure><blockquote>[Real quote]</blockquote><figcaption>[Name, place]</figcaption></figure>
+  </div>
+</section>
+
+<!-- 7. Offer: value stack, one price, one honest anchor, the CTA target. -->
+<section class="offer" id="offer">
+  <h2>[One plan, stated plainly]</h2>
+  <table class="stack">
+    <tr><td>[What is included]</td><td>included</td></tr>
+    <tr><td>[What is included]</td><td>included</td></tr>
+    <tr><td>[Risk reducer: skip, cancel, refund]</td><td>[terms]</td></tr>
+  </table>
+  <p class="price">[Price] <span>[unit]</span></p>
+  <p class="anchor">[One sourced comparison, from facts.md]</p>
+  <a class="btn" href="#offer">[CTA label]</a>
+</section>
+
+<!-- 8. About: who is behind it. A stat or a photo of real people. -->
+<section class="about">
+  <h2>[Who makes it]</h2>
+  <div class="about-grid">
+    <p class="stat">[Number from facts.md]</p>
+    <p>[Two sentences about the people and the place.]</p>
+  </div>
+</section>
+
+<!-- 9. FAQ: the real objections in the buyer's words. The refund rule lives here. -->
+<section class="faq">
+  <h2>Questions</h2>
+  <details><summary>[Objection 1]</summary><p>[Answer]</p></details>
+  <details><summary>[Objection 2]</summary><p>[Answer]</p></details>
+  <details><summary>[Objection 3]</summary><p>[Answer]</p></details>
+  <details><summary>Refunds?</summary><p>[The refund rule, exactly as the owner states it]</p></details>
+</section>
+
+<!-- 10. Final CTA: what happens next. -->
+<section class="final">
+  <img class="final-img" src="img/hero.jpg" width="1200" height="800" alt="">
+  <h2>[What happens right after they click]</h2>
+  <a class="btn" href="#offer">[CTA label]</a>
+</section>
+</main>
+<footer class="foot">[Company name, contact, policies]</footer>
+</body>
+</html>

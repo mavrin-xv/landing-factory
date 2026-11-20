@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contoso Beans: tea, delivered</title>
+<meta name="description" content="A reference page for the landing-factory example. Contoso Beans is invented.">
+<style>
+  :root { --ink:#1d2321; --paper:#f6f3ee; --accent:#2f6b4f; --muted:#5d6661; }
+  * { box-sizing:border-box; margin:0; }
+  body { font-family: Georgia, serif; color:var(--ink); background:var(--paper); line-height:1.5; }
+  header.nav { display:flex; justify-content:space-between; align-items:center; padding:14px 20px; }
+  .logo { font-weight:700; letter-spacing:.02em; }
+  .btn { display:inline-block; background:var(--accent); color:#fff; padding:12px 18px; border-radius:999px; text-decoration:none; font-family:Arial, sans-serif; font-size:15px; white-space:nowrap; }
+  section { padding:56px 20px; max-width:1080px; margin:0 auto; }
+  .hero h1 { font-size:38px; line-height:1.1; }
+  .hero p { color:var(--muted); margin:14px 0 22px; font-size:18px; }
+  .hero .shot { margin-top:28px; height:260px; border-radius:18px; background:linear-gradient(135deg,#cfd9d1,#e9e2d6); }
+  .logos ul { display:grid; grid-template-columns:repeat(2,1fr); gap:10px; list-style:none; padding:0; }
+  .logos li { border:1px solid #ddd6cb; border-radius:10px; padding:14px; text-align:center; font-family:Arial, sans-serif; color:var(--muted); }
+  .steps ol { padding-left:22px; display:grid; gap:14px; }
+  .quotes blockquote { border-left:3px solid var(--accent); padding-left:14px; margin:14px 0; }
+  .price { font-size:44px; font-weight:700; }
+  details { border-top:1px solid #ddd6cb; padding:12px 0; }
+  footer { padding:30px 20px; color:var(--muted); font-family:Arial, sans-serif; font-size:14px; }
+  @media (min-width:820px) { .hero h1 { font-size:58px; } .logos ul { grid-template-columns:repeat(5,1fr); } }
+</style>
+</head>
+<body>
+<header class="nav"><span class="logo">Contoso Beans</span><a class="btn" href="#plans">Start for $12</a></header>
+<main>
+<section class="hero">
+  <h1>Loose-leaf tea that shows up before you run out</h1>
+  <p>Pick a tea, pick a pace. Your first tin ships today for $12.</p>
+  <a class="btn" href="#plans">Start for $12</a>
+  <div class="shot" role="img" aria-label="Three tea tins on a table"></div>
+</section>
+<section class="logos">
+  <h2>Served at</h2>
+  <ul><li>Harbor Cafe</li><li>Linden Books</li><li>Ridge Hotel</li><li>Fig Bakery</li><li>Mill Studio</li></ul>
+</section>
+<section class="steps">
+  <h2>How it works</h2>
+  <ol><li>Take the two-minute taste quiz.</li><li>We blend and pack your tin the same week.</li><li>Rate each tin; the next one adapts.</li></ol>
+</section>
+<section class="features">
+  <h2>What is in every box</h2>
+  <ul><li>One 100 g tin</li><li>A brew card with times and temperatures</li><li>A sample of next month's tea</li></ul>
+</section>
+<section class="quotes">
+  <h2>What drinkers say</h2>
+  <blockquote>The quiz got my taste right on the second tin.<br>Mara, Portland</blockquote>
+  <blockquote>I stopped buying tea at the store.<br>Dev, Leeds</blockquote>
+</section>
+<section class="pricing" id="plans">
+  <h2>One plan</h2>
+  <p class="price">$12 a tin</p>
+  <p>Ships every 4 weeks. Skip or cancel from your account.</p>
+  <a class="btn" href="#plans">Start for $12</a>
+</section>
+<section class="faq">
+  <h2>Questions</h2>
+  <details><summary>Can I pause?</summary><p>Yes, from your account, any time before the ship date.</p></details>
+  <details><summary>Where do you ship?</summary><p>The US, Canada and the UK.</p></details>
+</section>
+</main>
+<footer>Contoso Beans is an invented company used as a reference fixture.</footer>
+</body>
+</html>

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+*.token
+out/shots/
+*.bak.*
+page-v*.html
+.DS_Store
